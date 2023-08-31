@@ -1,0 +1,28 @@
+Uri: https://exaus.ru/
+File Name: C:\Downloaded Web Sites\exaus.ru\index.htm
+Content Type: text/html
+
+Uri: https://exaus.ru/script.js
+File Name: C:\Downloaded Web Sites\exaus.ru\script.js
+Content Type: application/javascript
+
+Uri: https://exaus.ru/style.css
+File Name: C:\Downloaded Web Sites\exaus.ru\style.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap
+File Name: C:\Downloaded Web Sites\exaus.ru\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7V1s.ttf
+File Name: C:\Downloaded Web Sites\exaus.ru\s\poppins\v20\pxiByp8kv8JHgFVrLCz7V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6V1s.ttf
+File Name: C:\Downloaded Web Sites\exaus.ru\s\poppins\v20\pxiByp8kv8JHgFVrLEj6V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrFJA.ttf
+File Name: C:\Downloaded Web Sites\exaus.ru\s\poppins\v20\pxiEyp8kv8JHgFVrFJA.ttf
+Content Type: font/ttf
+
